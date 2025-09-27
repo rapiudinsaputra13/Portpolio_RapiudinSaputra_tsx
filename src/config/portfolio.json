@@ -1,0 +1,129 @@
+{
+  "profile": {
+    "name": "Rapiudin Saputra",
+    "nickname": "Rafi",
+    "title": "QA Engineer Berpengalaman 3+ Tahun",
+    "subtitle": "Spesialis Otomasi End-to-End untuk Peningkatan Test Coverage dan Kecepatan Release",
+    "description": "Berhasil mengurangi bug kritis pasca-rilis hingga 40% melalui implementasi framework otomatisasi baru. Berpengalaman dalam testing web & mobile apps dengan fokus pada kualitas dan efisiensi proses development.",
+    "location": "Bandung, Jawa Barat, Indonesia",
+    "email": "rapiudinsaputra4@gmail.com",
+    "experience": "3+",
+    "status": "Available for freelance & full-time",
+    "bio": "Perkenalkan saya Rapiudin Saputra, orang-orang yang kenal saya biasanya memanggil saya Rafi. Saya asli Indonesia dan suka sekali menulis di blog seperti tutorial, sharing pengetahuan, dan programming. Saya asli Garut, Jawa Barat dan sekarang berada di Kota Bandung. Saya sangat menyukai teknologi terkini, olahraga futsal, tenis meja, dan menyanyi lagu religi. Hidup adalah menjadi pembelajar karena keahlian tidak dapat dimiliki tanpa adanya keinginan untuk mempelajarinya setiap hari.",
+    "philosophy": "Saya percaya Shift-Left Testing adalah kunci untuk penghematan biaya jangka panjang."
+  },
+  "socialMedia": {
+    "linkedin": "https://linkedin.com/in/rapiputra",
+    "github": "https://github.com/rapiudinsaputra13",
+    "youtube": "https://www.youtube.com/channel/UCnE5Dw4iZKqCTcuoNJ1yjkA",
+    "instagram": "https://www.instagram.com/raffzam/",
+    "blog": "https://rapiudinsaputra.blogspot.com"
+  },
+  "skills": {
+    "categories": [
+      {
+        "id": "automation",
+        "name": "Automation Testing",
+        "icon": "🤖",
+        "skills": [
+          { "name": "Selenium WebDriver", "level": 90, "experience": "3+ years" },
+          { "name": "Cypress", "level": 85, "experience": "2+ years" },
+          { "name": "Playwright", "level": 75, "experience": "1+ years" },
+          { "name": "Jest", "level": 80, "experience": "2+ years" },
+          { "name": "Cucumber BDD", "level": 85, "experience": "2+ years" }
+        ]
+      },
+      {
+        "id": "programming",
+        "name": "Programming Languages",
+        "icon": "💻",
+        "skills": [
+          { "name": "JavaScript", "level": 85, "experience": "3+ years" },
+          { "name": "Python", "level": 80, "experience": "2+ years" },
+          { "name": "Java", "level": 75, "experience": "2+ years" },
+          { "name": "TypeScript", "level": 70, "experience": "1+ years" }
+        ]
+      },
+      {
+        "id": "tools",
+        "name": "Testing Tools & Platforms",
+        "icon": "🛠️",
+        "skills": [
+          { "name": "JIRA", "level": 95, "experience": "3+ years" },
+          { "name": "TestRail", "level": 90, "experience": "2+ years" },
+          { "name": "Postman", "level": 90, "experience": "3+ years" },
+          { "name": "Jenkins", "level": 80, "experience": "2+ years" },
+          { "name": "GitLab CI/CD", "level": 75, "experience": "1+ years" }
+        ]
+      },
+      {
+        "id": "performance",
+        "name": "Performance & Load Testing",
+        "icon": "⚡",
+        "skills": [
+          { "name": "JMeter", "level": 85, "experience": "2+ years" },
+          { "name": "LoadRunner", "level": 70, "experience": "1+ years" },
+          { "name": "K6", "level": 75, "experience": "1+ years" }
+        ]
+      },
+      {
+        "id": "mobile",
+        "name": "Mobile Testing",
+        "icon": "📱",
+        "skills": [
+          { "name": "Appium", "level": 80, "experience": "2+ years" },
+          { "name": "TestComplete", "level": 75, "experience": "1+ years" },
+          { "name": "Espresso", "level": 70, "experience": "1+ years" },
+          { "name": "XCUITest", "level": 65, "experience": "1+ years" }
+        ]
+      },
+      {
+        "id": "security",
+        "name": "Security Testing",
+        "icon": "🔒",
+        "skills": [
+          { "name": "OWASP ZAP", "level": 80, "experience": "2+ years" },
+          { "name": "Burp Suite", "level": 75, "experience": "1+ years" },
+          { "name": "SonarQube", "level": 70, "experience": "1+ years" }
+        ]
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "icon": "CheckCircle",
+      "title": "3+ Tahun Pengalaman",
+      "description": "Berpengalaman dalam QA testing untuk berbagai platform"
+    },
+    {
+      "icon": "Award",
+      "title": "QA Lead Position",
+      "description": "Memimpin tim QA dan mengembangkan strategi testing"
+    },
+    {
+      "icon": "Users",
+      "title": "Team Leadership",
+      "description": "Mengelola dan membimbing tim QA untuk hasil optimal"
+    },
+    {
+      "icon": "Target",
+      "title": "Quality Focus",
+      "description": "Fokus pada kualitas produk dan kepuasan pengguna"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ISTQB Certified Tester Foundation Level",
+      "issuer": "ISTQB",
+      "year": "2022",
+      "status": "active"
+    },
+    {
+      "name": "Selenium WebDriver Certification",
+      "issuer": "Udemy",
+      "year": "2021",
+      "status": "active"
+    }
+  ],
+  "lastUpdated": "2025-09-28T00:30:00Z"
+}
