@@ -11,24 +11,29 @@ export function Contact() {
     message: ""
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    // Create mailto link with form data
-    const subject = encodeURIComponent(`Pesan dari ${formData.name} - Portfolio Contact`);
-    const body = encodeURIComponent(
-      `Nama: ${formData.name}\nEmail: ${formData.email}\n\nPesan:\n${formData.message}\n\n---\nDikirim dari Portfolio Website`
-    );
-    const mailtoLink = `mailto:rapiudinsaputra4@gmail.com?subject=${subject}&body=${body}`;
-    
-    // Open email client
-    window.location.href = mailtoLink;
-    
-    // Reset form
-    setFormData({ name: "", email: "", message: "" });
-    
-    // Show success message (optional)
-    alert("Email client akan terbuka. Terima kasih atas pesan Anda!");
+    try {
+      const response = await fetch("/api/submit-contact", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(formData),
+      });
+
+      if (response.ok) {
+        alert("Pesan Anda berhasil dikirim!");
+        setFormData({ name: "", email: "", message: "" });
+      } else {
+        const errorData = await response.json();
+        alert(`Gagal mengirim pesan: ${errorData.message || response.statusText}`);
+      }
+    } catch (error) {
+      console.error("Error submitting form:", error);
+      alert("Terjadi kesalahan saat mengirim pesan.");
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {

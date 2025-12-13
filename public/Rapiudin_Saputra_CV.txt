@@ -1,0 +1,301 @@
+Rapiudin
+Home
+About
+Projects
+Skills
+Contact
+
+Halo, saya Rapiudin 👋
+QA Engineer Berpengalaman 3+ Tahun
+Spesialis Otomasi End-to-End untuk Peningkatan Test Coverage dan Kecepatan Release
+
+Berhasil mengurangi bug kritis pasca-rilis hingga 40% melalui implementasi framework otomatisasi baru. Berpengalaman dalam testing web & mobile apps dengan fokus pada kualitas dan efisiensi proses development.
+
+Lihat Studi Kasus Otomasi Saya
+Akses Repositori GitHub
+Unduh CV
+Tentang Saya
+Hai! Saya adalah seorang QA Lead dengan pengalaman lebih dari 2 tahun dalam industri teknologi. Saya memiliki passion yang kuat dalam memastikan kualitas produk digital melalui testing yang komprehensif.
+
+Saya terbiasa menyusun test case, melakukan regression testing, automation testing, serta memimpin tim QA untuk berbagai platform seperti web dan mobile.
+
+Saya mahir menggunakan tools seperti JIRA, Postman, Selenium, dan TestRail untuk mengoptimalkan proses testing dan memastikan delivery produk berkualitas tinggi.
+
+JIRA
+Postman
+Selenium
+TestRail
+Cypress
+Jest
+2+ Tahun Pengalaman
+Berpengalaman dalam QA testing untuk berbagai platform
+
+QA Lead Position
+Memimpin tim QA dan mengembangkan strategi testing
+
+Team Leadership
+Mengelola dan membimbing tim QA untuk hasil optimal
+
+Quality Focus
+Fokus pada kualitas produk dan kepuasan pengguna
+
+Studi Kasus QA
+Berikut adalah studi kasus QA terperinci yang menunjukkan proses, metodologi, dan hasil terukur dari proyek-proyek testing yang telah saya kerjakan.
+
+40%
+Bug Reduction
+75%
+Faster Testing
+85%
+Test Coverage
+100%
+Security Compliance
+🛒
+Web Testing
+E-Commerce Platform Automation
+Peningkatan Test Coverage dari 45% ke 85%
+
+Implementasi framework otomatisasi end-to-end untuk platform e-commerce dengan 50+ test scenarios.
+
+I. Konteks Proyek
+Tantangan: Platform e-commerce mengalami 25+ bug kritis per release dengan manual testing yang memakan waktu 3 hari
+
+Sistem: Web Application (React + Node.js)
+
+Metodologi: Agile/Scrum dengan 2-week sprints
+
+II. Peran & Metode
+Tanggung Jawab: Lead QA Engineer - Merancang test strategy dan memimpin implementasi automation framework
+
+Jenis Testing:
+Functional Testing
+Regression Testing
+Performance Testing
+Cross-browser Testing
+III. Solusi Teknis
+Tools:
+Selenium WebDriver
+Cypress
+Jest
+TestRail
+Jenkins CI/CD
+Framework: Page Object Model dengan Cucumber BDD untuk test scenarios yang readable
+
+IV. Hasil Terukur
+Test Coverage: 45% → 85%
+Bug kritis post-release: 25 → 6 (76% reduction)
+Test execution time: 3 hari → 4 jam
+90% test cases berhasil diotomatisasi
+Selenium
+Cypress
+Jest
+TestRail
+Jenkins
+Lihat Repositori
+Source Code
+🏦
+Mobile Testing
+Mobile Banking Security Testing
+Zero Security Vulnerabilities dalam Production
+
+Comprehensive security dan performance testing untuk aplikasi mobile banking dengan 1M+ users.
+
+I. Konteks Proyek
+Tantangan: Aplikasi banking membutuhkan security testing ketat dan performance optimization untuk handle traffic tinggi
+
+Sistem: Mobile App (iOS & Android) + API Backend
+
+Metodologi: DevSecOps dengan continuous security testing
+
+II. Peran & Metode
+Tanggung Jawab: Senior QA Engineer - Security testing lead dan performance optimization specialist
+
+Jenis Testing:
+Security Testing
+Performance Testing
+API Testing
+Device Compatibility
+III. Solusi Teknis
+Tools:
+Appium
+OWASP ZAP
+JMeter
+Postman
+TestComplete
+Framework: Security-first testing approach dengan automated vulnerability scanning
+
+IV. Hasil Terukur
+Zero critical security vulnerabilities in production
+App load time: 8s → 2.5s (69% improvement)
+Device compatibility: 95% across 50+ devices
+99.9% uptime maintained during peak hours
+Appium
+OWASP ZAP
+JMeter
+Postman
+TestComplete
+Lihat Repositori
+Source Code
+🔌
+API Testing
+API Testing Framework Development
+Automated API Testing untuk 200+ Endpoints
+
+Development comprehensive API testing framework dengan automated reporting dan CI/CD integration.
+
+I. Konteks Proyek
+Tantangan: Microservices architecture dengan 200+ API endpoints membutuhkan testing strategy yang scalable
+
+Sistem: REST & GraphQL APIs dengan microservices architecture
+
+Metodologi: API-first development dengan contract testing
+
+II. Peran & Metode
+Tanggung Jawab: QA Automation Engineer - Framework architect dan API testing specialist
+
+Jenis Testing:
+Contract Testing
+Integration Testing
+Load Testing
+Data Validation
+III. Solusi Teknis
+Tools:
+Postman
+Newman
+Jest
+Pact
+K6
+Framework: Contract-driven testing dengan automated schema validation
+
+IV. Hasil Terukur
+API test coverage: 100% untuk critical endpoints
+Test execution: Manual 2 hari → Automated 30 menit
+API reliability improved by 40%
+Seamless CI/CD integration dengan 0 false positives
+Postman
+Newman
+Jest
+Pact
+K6
+Lihat Repositori
+Source Code
+🏥
+System Testing
+Healthcare System Compliance Testing
+100% Compliance dengan Standar HIPAA
+
+Quality assurance untuk sistem informasi kesehatan dengan focus pada data privacy dan compliance.
+
+I. Konteks Proyek
+Tantangan: Healthcare system membutuhkan strict compliance testing untuk HIPAA dan data protection regulations
+
+Sistem: Web-based Healthcare Management System
+
+Metodologi: Waterfall dengan extensive documentation dan audit trails
+
+II. Peran & Metode
+Tanggung Jawab: QA Lead - Compliance testing specialist dan audit coordinator
+
+Jenis Testing:
+Compliance Testing
+Data Validation
+Security Testing
+User Acceptance Testing
+III. Solusi Teknis
+Tools:
+Selenium
+TestNG
+Maven
+Jenkins
+SonarQube
+Framework: Compliance-driven testing dengan automated audit reporting
+
+IV. Hasil Terukur
+100% HIPAA compliance achieved
+Zero audit findings dalam external review
+Data breach risk reduced by 85%
+Complete test documentation untuk regulatory approval
+Selenium
+TestNG
+Maven
+Jenkins
+SonarQube
+Lihat Repositori
+Source Code
+Tertarik dengan Metodologi QA Saya?
+Mari diskusikan bagaimana saya dapat membantu meningkatkan kualitas produk Anda
+
+Hubungi Saya
+Keahlian Saya
+Berikut adalah keahlian dan teknologi yang saya kuasai dalam bidang Quality Assurance.
+
+Testing Expertise
+Manual Testing
+95%
+Automation Testing
+90%
+API Testing
+88%
+Mobile Testing
+85%
+Tools & Technologies
+Selenium
+90%
+Postman
+92%
+JIRA
+88%
+TestRail
+85%
+Leadership & Management
+Team Leadership
+90%
+Test Planning
+88%
+Quality Assurance
+95%
+Process Improvement
+85%
+📫 Hubungi Saya
+Tertarik bekerja sama atau punya pertanyaan tentang QA Automation? Mari kita jalin tali silaturahmi dan diskusikan proyek Anda!
+
+Informasi Kontak
+Email
+
+rapiudinsaputra4@gmail.com
+Lokasi
+
+Bandung, Jawa Barat, Indonesia
+
+Status
+
+Available for freelance & full-time
+
+Tentang Saya
+Perkenalkan saya Rapiudin Saputra, orang-orang yang kenal saya biasanya memanggil saya Rafi. Saya asli Indonesia dan suka sekali menulis di blog seperti tutorial, sharing pengetahuan, dan programming.
+
+Saya asli Garut, Jawa Barat dan sekarang berada di Kota Bandung. Saya sangat menyukai teknologi terkini, olahraga futsal, tenis meja, dan menyanyi lagu religi. Hidup adalah menjadi pembelajar karena keahlian tidak dapat dimiliki tanpa adanya keinginan untuk mempelajarinya setiap hari.
+
+Singkatnya: Laki-laki, Muslim, Warga Indonesia 🇮🇩
+
+Mari Terhubung
+LinkedIn
+GitHub
+YouTube
+Instagram
+Kirim Pesan
+Nama *
+Masukkan nama Anda
+Email *
+nama@email.com
+Pesan *
+Tulis pesan Anda di sini...
+Kirim Pesan
+Mari Berkolaborasi! 🤝
+Salam Hangat dari Rapiudin Saputra - Mari kita jalin tali silaturahmi dan ciptakan solusi QA yang berkualitas bersama!
+
+QA Automation
+Web Testing
+Mobile Testing
+API Testing
+© 2025 Rapiudin Saputra. All rights reserved.

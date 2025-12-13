@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ArrowRight, Github, Linkedin, Mail, Youtube } from "lucide-react";
+import { ArrowRight, Download, Github, Linkedin, Mail, Youtube } from "lucide-react";
 
 export function Hero() {
   const scrollToSection = (sectionId: string) => {
@@ -71,6 +71,15 @@ export function Hero() {
             >
               <Github className="w-5 h-5" />
               Akses Repositori GitHub
+            </a>
+
+            <a
+              href="/Rapiudin_Saputra_CV.pdf"
+              download="Rapiudin_Saputra_CV.pdf"
+              className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-4 rounded-full transition-all duration-300 hover:scale-105 shadow-lg flex items-center gap-2"
+            >
+              <Download className="w-5 h-5" />
+              Unduh CV
             </a>
           </motion.div>
 
