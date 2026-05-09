@@ -74,8 +74,9 @@ export function Hero() {
             </a>
 
             <a
-              href="/Rapiudin_Saputra_CV.pdf"
-              download="Rapiudin_Saputra_CV.pdf"
+              href="https://drive.google.com/file/d/1Z3CtWGUMBTjYtUXVfzJEkoyMosTEFQ0B/view"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-green-600 hover:bg-green-700 text-white font-semibold px-8 py-4 rounded-full transition-all duration-300 hover:scale-105 shadow-lg flex items-center gap-2"
             >
               <Download className="w-5 h-5" />

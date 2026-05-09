@@ -5,21 +5,18 @@ Projects
 Skills
 Contact
 
-Halo, saya Rapiudin 👋
-QA Engineer Berpengalaman 3+ Tahun
-Spesialis Otomasi End-to-End untuk Peningkatan Test Coverage dan Kecepatan Release
-
-Berhasil mengurangi bug kritis pasca-rilis hingga 40% melalui implementasi framework otomatisasi baru. Berpengalaman dalam testing web & mobile apps dengan fokus pada kualitas dan efisiensi proses development.
+● Memimpin QA end-to-end pada integrasi Smart Biller PLN & Telkom serta payment gateway Bank Nobu, melakukan validasi 50+ endpoint API menggunakan Postman dengan coverage positif, negatif, dan edge case, menghasilkan peningkatan keberhasilan transaksi ±10% dan penurunan incident integrasi.
+● Mengumpulkan dan menganalisis data transaksi harian (10.000–105.000+ transaksi/hari) menggunakan SQL dan Excel untuk identifikasi root cause issue.
+● Melakukan Insight analisis untuk prioritas perbaikan bug dan optimasi performa API, berkontribusi pada penurunan error rate ±15% dalam 2 bulan.
+● Menyusun laporan performa sistem mingguan berbasis Excel dan Jira dashboard untuk keputusan release dan evaluasi stabilitas sistem.
+● Meningkatkan re-testing pass rate hingga ±95% dan menurunkan error rate pasca Migration Server AWS.
+● Menerapkan standar QA berbasis structured testing dan defect management menggunakan Jira dengan 100+ issue terverifikasi, berkontribusi pada penurunan bug production >80%.
 
 Lihat Studi Kasus Otomasi Saya
 Akses Repositori GitHub
 Unduh CV
 Tentang Saya
-Hai! Saya adalah seorang QA Lead dengan pengalaman lebih dari 2 tahun dalam industri teknologi. Saya memiliki passion yang kuat dalam memastikan kualitas produk digital melalui testing yang komprehensif.
-
-Saya terbiasa menyusun test case, melakukan regression testing, automation testing, serta memimpin tim QA untuk berbagai platform seperti web dan mobile.
-
-Saya mahir menggunakan tools seperti JIRA, Postman, Selenium, dan TestRail untuk mengoptimalkan proses testing dan memastikan delivery produk berkualitas tinggi.
+QA Lead dengan pengalaman 3+ tahun, spesialisend-to-end testing, API validation, dan data-driven quality improvement. Berhasil meningkatkan transaksi ±10%, menurunkan error rate ±15%, dan mengurangi bug production >80% melalui pendekatan testing terstruktur.
 
 JIRA
 Postman
